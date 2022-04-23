@@ -19,7 +19,7 @@ this tool is a standalone python script, you can download the files as a zip/git
 2. open a terminal (.i.e CMD) in that folder
 3. see below for detailed usage
 
-all downloaded chapters are saved to `/downloaded_chapters/{title}/{chapter}`
+all downloaded chapters are saved to `downloaded_chapters\{title}\{chapter}`
 
 ---
 ```
